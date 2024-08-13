@@ -1,4 +1,4 @@
-/*
+/* 
   Специально для тёмной темы при наличии класса,
   здесь окажутся стили, которые нужно переопределить принудительно,
   переключая тему
@@ -9,4 +9,19 @@
     Так стили написанные ниже будут иметь больший вес,
     чем стили в медиазапросе предпочтений пользователя
   */
+
+  --bcki: url(../images/cover-image-dark.png);
+  background-image: var(--bcki);
+  --bckc: #000028;
+
+  --pink-to-gray: #ff0070;
+  --pink-to-gray-hover-button: #FF007066;
+  --main-title-color: #DB00FF;
+  --main-bg-color: #ff0070;
+  --subtitle-color: #000028;
+  --subtitle-subsection-color: #F1B2CE;
+  --link-event-color: #F1B2CE;
+  --visibility: visible;
+  --accent-color:#FF0070;
 }
+

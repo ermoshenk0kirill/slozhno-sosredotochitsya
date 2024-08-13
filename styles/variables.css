@@ -2,3 +2,19 @@
   Переменные для вашего проекта
   и их переопределение под различные устройства
 */
+
+
+:root {
+  --bcki: url(../images/cover-image-dark.png);
+  --bckc: #000028;
+
+
+  --pink-to-gray: #ff0070;
+  --pink-to-gray-hover-button: #FF007066;
+  --main-title-color: #DB00FF;
+  --main-bg-color: #ff0070;
+  --subtitle-color: #000028;
+  --subtitle-subsection-color: #F1B2CE;
+  --link-event-color: #F1B2CE;
+  --accent-color:#FF0070;
+}
