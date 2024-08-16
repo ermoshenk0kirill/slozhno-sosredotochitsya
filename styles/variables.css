@@ -7,8 +7,6 @@
 :root {
   --bcki: url(../images/cover-image-dark.png);
   --bckc: #000028;
-
-
   --pink-to-gray: #ff0070;
   --pink-to-gray-hover-button: #FF007066;
   --main-title-color: #DB00FF;
@@ -17,4 +15,6 @@
   --subtitle-subsection-color: #F1B2CE;
   --link-event-color: #F1B2CE;
   --accent-color:#FF0070;
+  --title-size-small: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
+  --title-size-big: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
 }
