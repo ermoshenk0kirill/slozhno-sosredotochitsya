@@ -307,7 +307,6 @@
   }
 
   .header {
-    height: 100vh;
     min-height: 668px;
     padding-block-start: 20px;
     padding-block-end: 20px;
@@ -440,7 +439,6 @@
 @media (width >= 1023px) {
   .header {
     min-height: 668px;
-    height: 100vh;
   }
 
   .decorated-zone::before {
